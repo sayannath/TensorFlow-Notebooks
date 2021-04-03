@@ -10,6 +10,7 @@
 
 # TensorFlow Notebooks
 <img height=150 width=150 src="https://colab.research.google.com/img/colab_favicon_256px.png">
+
 ## Description
 
 **Author**: [Sayan Nath](https://sayannath.biz/)<br>
