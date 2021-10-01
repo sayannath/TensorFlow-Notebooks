@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/sayannath2350?style=for-the-badge)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://gitHub.com/sayannath)
 
-<a href="https://github.com/sayannath/MIRNet-Flutter/graphs/contributors">
+<a href="https://github.com/sayannath/Tensorflow-Notebooks/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sayannath/Tensorflow-Notebooks" />
 </a>
 
